@@ -8,6 +8,15 @@
   <artifactId>maven-quick-start</artifactId>
   <version>1.0</version>
 
+	<dependencies>
+		<!-- http://search.maven.org/#artifactdetails%7Corg.apache.commons%7Ccommons-lang3%7C3.6%7Cjar -->
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-lang3</artifactId>
+		    <version>3.6</version>
+		</dependency>
+	</dependencies>
+
 	<build>
     <plugins>
       <plugin>
