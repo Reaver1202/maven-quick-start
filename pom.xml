@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>tobi.lern</groupId>
   <artifactId>maven-quick-start</artifactId>
-  <version>1.1</version>
+  <version>1.2</version>
 
 	<dependencies>
 		<!-- http://search.maven.org/#artifactdetails%7Corg.apache.commons%7Ccommons-lang3%7C3.6%7Cjar -->
