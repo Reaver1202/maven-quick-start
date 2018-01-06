@@ -146,6 +146,8 @@ Multiple goals: clean + package
 
 ## Scopes
 
+Source: Udemy Trainging: https://www.udemy.com/maven-quick-start/learn/v4/content 
+
 ￼![Compile Scope](/pics/Scope_Compile.png)
 ￼￼![Runtime Scope](/pics/Scope_Runtime.png)￼
 ![Test Scope](/pics/Scope_Test.png)
@@ -153,6 +155,7 @@ Multiple goals: clean + package
 ￼![System Scope](/pics/Scope_System.png)
 ￼![Import Scope](/pics/Scope_Import.png)
 ￼
+
 ￼
 
 - Maven Central Repository: http://search.maven.org
